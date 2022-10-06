@@ -9,8 +9,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Copy of L2IceCreamClub</title>
-        <meta property="og:title" content="Copy of L2IceCreamClub" />
+        <title>PenguinIceCreamClub</title>
+        <meta property="og:title" content="PenguinIceCreamClub" />
       </Helmet>
       <div className="home-navbar navbar-container">
         <div className="max-width">
